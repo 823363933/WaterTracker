@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">喝水打卡</string>
+    <string name="settings">设置</string>
+    <string name="daily_goal">每日目标</string>
+    <string name="cup_capacity">杯子容量</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="today_records">今日记录</string>
+    <string name="no_records">暂无记录，开始喝水打卡吧！</string>
+    <string name="remaining_goal">今日剩余目标: %dml</string>
+    <string name="drink_success">打卡成功！+%dml</string>
+    <string name="goal_completed">🎉 恭喜！今日喝水目标已完成！</string>
+    <string name="settings_saved">设置已保存</string>
+    <string name="invalid_input">请输入有效的数值！</string>
+    <string name="fill_all_fields">请填写所有字段</string>
+    <string name="value_too_large">数值过大，请输入合理的数值</string>
+    <string name="invalid_number">请输入有效的数字</string>
+</resources>
